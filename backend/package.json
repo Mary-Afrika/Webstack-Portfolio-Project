@@ -1,0 +1,26 @@
+{
+  "name": "lingualearn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start", // Command to start the development server
+    "build": "react-scripts build", // Command to build the production bundle
+    "test": "react-scripts test", // Command to run tests
+    "eject": "react-scripts eject" // Command to eject from create-react-app and customize configuration
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3" // Dependency for scripts used during development
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.24.0"
+  }
+}
